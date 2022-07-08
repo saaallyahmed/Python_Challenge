@@ -6,7 +6,7 @@
 
 ![Revenue](Images/revenue-per-lead.png)
 
-* In this challenge, We created a Python script for analyzing the financial records of your company. We gave a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. (Thankfully, the company has rather lax standards for accounting so the records are simple.)
+* In this challenge, We created a Python script for analyzing the financial records of the company. We gave a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. (Thankfully, the company has rather lax standards for accounting so the records are simple.)
 
 * Our team created a Python script that analyzes the records to calculate each of the following:
 
@@ -30,11 +30,10 @@
   Average  Change: $-2315.12
   Greatest Increase in Profits: Feb-2012 ($1926159)
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
-  ```
 
 
 
-## PyPoll
+  ## PyPoll
 
 ![Vote Counting](Images/Vote_counting.png)
 
@@ -52,8 +51,6 @@
 
   * The winner of the election based on popular vote.
 
-* As an example, your analysis should look similar to the one below:
-
  
   ## Election Results
   -------------------------
@@ -64,7 +61,10 @@
   Li: 14.000% (492940)
   O'Tooley: 3.000% (105630)
   -------------------------
-  Winner: Khan
+  ### Winner: Khan
   -------------------------
   ```
 
+
+  ```
+  
