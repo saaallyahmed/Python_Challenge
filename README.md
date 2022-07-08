@@ -6,7 +6,7 @@
 
 ![Revenue](Images/revenue-per-lead.png)
 
-* In this challenge, WE tasked with creating a Python script for analyzing the financial records of your company. We gave a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. (Thankfully, the company has rather lax standards for accounting so the records are simple.)
+* In this challenge, We created a Python script for analyzing the financial records of your company. We gave a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. (Thankfully, the company has rather lax standards for accounting so the records are simple.)
 
 * Our team created a Python script that analyzes the records to calculate each of the following:
 
